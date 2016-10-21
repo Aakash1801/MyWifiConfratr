@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Syrus Configurator</string>
+
+    <string name="hello_world">This is a photon wifi configurator app developed by Aakash Lalchandani for Syrus Industry</string>
+    <string name="welcome_back">Welcome back! You\'ve returned from setup, which started at %s.</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Enable full logging in the cloud SDK -->
+    <string name="http_log_level">FULL</string>
+</resources>
